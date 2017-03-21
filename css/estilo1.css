@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ng{
+	font-weight:bold;
+}
+.lineas{
+	height:4px;
+	background-color:#F00;
+}
+
+.divresultado{
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+}
+
